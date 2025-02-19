@@ -1,1 +1,1 @@
-[![](./logo.gif)](https://github.com/ckarageorgkaneen/micrograduate)
+[![](../logo.gif)](https://github.com/ckarageorgkaneen/micrograduate)
